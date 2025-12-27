@@ -11,8 +11,9 @@ A Windows Batch script that automates backing up any folder to a specified desti
 3. Run the .bat script
 
 ## Example
-Source: C:\Users\user\databackup
-Destination: C:\Users\user\test2025122710
+Source: C:\Users\user\*databackup
+
+Destination: C:\Users\user\*test2025122710
 
 ## Notes
 - Test on non-critical folders first
