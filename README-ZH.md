@@ -11,9 +11,9 @@
 3. 執行 .bat 腳本
 
 ## 範例
-來源: C:\Users\user\databackup
+來源: C:\Users\user\*databackup
 
-目的地: C:\Users\user\test2025122710
+目的地: C:\Users\user\*test2025122710
 
 ## 注意事項
 - 建議先在非重要資料夾測試
